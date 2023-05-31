@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BypassDisabledScreenshot</string>
+    <string name="xposed_description">Bypass disabled/black screenshot in apps, enabling screenshots in apps that normally wouldn\'t allow it.</string>
+    <string-array name="scope">
+        <item>android</item>
+    </string-array>
+</resources>
